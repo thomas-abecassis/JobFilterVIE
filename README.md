@@ -2,7 +2,8 @@
 
 ## Description
 
-This Tampermonkey script allows users to filter job listings on the BusinessFrance website by removing offers that contain specific keywords in the location such as "bruxelles", "luxembourg", and "(inactif)". It also provides the option to modify these keywords at any time through the tampermonkey interface.
+This Tampermonkey script allows users to filter job listings on the BusinessFrance website by removing offers that contain specific keywords in the location such as "bruxelles"or "luxembourg". 
+It also provides the option to modify these keywords at any time through the tampermonkey interface.
 
 ## Features
 
