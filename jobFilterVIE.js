@@ -2,6 +2,7 @@
 // @name         Job Filter businessfrance
 // @namespace    http://tampermonkey.net/
 // @version      2024-10-21
+// @license MIT
 // @description  Removes offers from businessfrance search page from location given by the user
 // @author       Thomas Abecassis
 // @match        https://mon-vie-via.businessfrance.fr/offres/recherche?*
